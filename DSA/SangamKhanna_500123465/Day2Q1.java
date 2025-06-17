@@ -6,7 +6,7 @@ public class SumEvenNumbers {
                 sum += num;
             }
         }
-        return sum;
+        return sum
     }
 
     public static void main(String[] args) {
